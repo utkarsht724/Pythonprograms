@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b60430f0-28b0-45a3-9483-5896fdcff48d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Xc6Z2h9X0xyE7t0iUeZyMixlKM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.coupnno">
+    <configuration name="Binarysearch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pythonprograms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Binarysearch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="coupnno" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pythonprograms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coupnno.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gambler" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Pythonprograms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gambler.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.coupnno" />
+        <item itemvalue="Python.Binarysearch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b60430f0-28b0-45a3-9483-5896fdcff48d" name="Default Changelist" comment="" />
+      <created>1581333087880</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581333087880</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="399" y="27" width="619" height="741" key="#gambler" timestamp="1581333277253">
+      <screen x="61" y="27" width="1305" height="741" />
+    </state>
+    <state x="399" y="27" width="619" height="741" key="#gambler/61.27.1305.741@61.27.1305.741" timestamp="1581333277253" />
+    <state width="1282" height="175" key="GridCell.Tab.0.bottom" timestamp="1581391548900">
+      <screen x="61" y="27" width="1305" height="741" />
+    </state>
+    <state width="1282" height="175" key="GridCell.Tab.0.bottom/61.27.1305.741@61.27.1305.741" timestamp="1581391548900" />
+    <state width="1282" height="175" key="GridCell.Tab.0.center" timestamp="1581391548899">
+      <screen x="61" y="27" width="1305" height="741" />
+    </state>
+    <state width="1282" height="175" key="GridCell.Tab.0.center/61.27.1305.741@61.27.1305.741" timestamp="1581391548899" />
+    <state width="1282" height="175" key="GridCell.Tab.0.left" timestamp="1581391548899">
+      <screen x="61" y="27" width="1305" height="741" />
+    </state>
+    <state width="1282" height="175" key="GridCell.Tab.0.left/61.27.1305.741@61.27.1305.741" timestamp="1581391548899" />
+    <state width="1282" height="175" key="GridCell.Tab.0.right" timestamp="1581391548899">
+      <screen x="61" y="27" width="1305" height="741" />
+    </state>
+    <state width="1282" height="175" key="GridCell.Tab.0.right/61.27.1305.741@61.27.1305.741" timestamp="1581391548899" />
+    <state x="202" y="31" key="SettingsEditor" timestamp="1581333371978">
+      <screen x="61" y="27" width="1305" height="741" />
+    </state>
+    <state x="202" y="31" key="SettingsEditor/61.27.1305.741@61.27.1305.741" timestamp="1581333371978" />
+    <state x="369" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1581391372164">
+      <screen x="61" y="27" width="1305" height="741" />
+    </state>
+    <state x="369" y="224" key="com.intellij.ide.util.TipDialog/61.27.1305.741@61.27.1305.741" timestamp="1581391372164" />
+  </component>
+</project>
