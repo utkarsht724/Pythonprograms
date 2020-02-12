@@ -8,4 +8,4 @@ def Harmonic(Nth):
 
 #driver_code
 Nth=int(input("enter the Nth term"))    #to take Nth term from the user
-print((Harmonic(Nth),5))
+print(Harmonic(Nth))
