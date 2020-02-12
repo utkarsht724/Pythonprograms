@@ -1,8 +1,11 @@
 #program to display nth harmonic value
 
-n=int(input("enter the value of n"))    #to take value of n from the user
+def Harmonic(Nth):
+ harmonic_no=1.00
+ for number in range (2,Nth+1):   #iterate Nth+1 times from 2
+    harmonic_no += 1/number
+    print(harmonic_no)
 
-
-for i in range (1,n):        #iterate n times from 1/1 to 1/n
-
-    print(1,"/",i)
+#driver_code
+Nth=int(input("enter the Nth term"))    #to take Nth term from the user
+print((Harmonic(Nth),5))
